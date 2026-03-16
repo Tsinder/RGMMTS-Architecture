@@ -32,3 +32,117 @@ RGMMTS v3 is a **closed-loop medical therapy platform** integrating:
 
 # Core Architecture
 
+
+---
+
+# Key Components
+
+## Imaging Suite
+
+Supported imaging modalities:
+
+- MRI
+- CT
+- Ultrasound
+- Optical imaging
+
+Example vendors:
+
+- Siemens Healthineers
+- GE HealthCare
+- Philips Healthcare
+
+---
+
+## AI & Planning Engine
+
+Physics-guided AI models perform:
+
+- tissue modeling
+- ultrasound propagation simulation
+- safety validation
+- treatment planning
+
+Example compute infrastructure:
+
+NVIDIA GPU clusters
+
+---
+
+## Energy Delivery
+
+Primary therapy technology:
+
+High Intensity Focused Ultrasound (HIFU)
+
+Operating parameters:
+
+Frequency range: 0.5 – 3 MHz
+
+Example provider:
+
+Insightec
+
+---
+
+## Sensor & Safety Layer
+
+Patient monitoring includes:
+
+- thermal sensors
+- cavitation detection
+- vital signs monitoring
+- blood flow monitoring
+- oxygenation monitoring
+
+---
+
+## Safety & Control
+
+Multi-layer safety architecture:
+
+1. AI predictive safety layer  
+2. Sensor monitoring layer  
+3. Hardware safety layer  
+
+Emergency shutdown mechanisms included.
+
+---
+
+# Sequential Multimodal Therapy
+
+The system supports additional therapy strategies:
+
+- ultrasound ablation
+- drug activation
+- immune stimulation
+
+---
+
+# Clinical & Manufacturing Ecosystem
+
+Potential clinical partners:
+
+- Mayo Clinic
+- Cleveland Clinic
+
+Manufacturing partners:
+
+- Flex
+- Jabil
+
+---
+
+# Defensive Publication Statement
+
+This repository constitutes a **public technical disclosure** establishing prior art for the RGMMTS architecture.
+
+---
+
+# Author
+
+Vadym Tsinderhoz
+
+Date of publication:
+
+16 March 2026
