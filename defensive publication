@@ -1,0 +1,20 @@
+# RGMMTS v3 Defensive Publication
+
+Author: Vadym Tsinderhoz  
+Date: 16 March 2026  
+
+---
+
+# Abstract
+
+The Resonance-Guided Multimodal Medical Therapy System (RGMMTS v3) is a closed-loop therapeutic architecture designed for precision medical interventions.
+
+The system integrates diagnostic imaging, AI-based planning, robotic therapy delivery, and real-time physiological monitoring.
+
+This document provides an open technical disclosure for defensive publication purposes.
+
+---
+
+# Architecture
+
+The RGMMTS system operates as a closed-loop control system.
