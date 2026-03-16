@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "RGMMTS v3 – Resonance-Guided Multimodal Medical Therapy System"
+authors:
+  - family-names: Tsinderhoz
+    given-names: Vadym
+date-released: 2026-03-16
+license: CC-BY-4.0
+repository-code: https://github.com/
+abstract: >
+  Open defensive publication of the RGMMTS v3 medical therapy system architecture.
