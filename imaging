@@ -1,0 +1,85 @@
+
+---
+
+# Imaging Subsystem
+
+Provides anatomical and functional imaging.
+
+Technologies:
+
+MRI  
+CT  
+Ultrasound  
+Optical imaging
+
+---
+
+# AI Planning System
+
+Physics-guided artificial intelligence models simulate therapy outcomes.
+
+Functions:
+
+- tissue modeling
+- energy propagation modeling
+- safety validation
+- treatment planning
+
+---
+
+# Therapy System
+
+Primary energy delivery modality:
+
+High Intensity Focused Ultrasound (HIFU)
+
+Specifications:
+
+Frequency: 0.5 – 3 MHz  
+Adaptive amplitude control  
+MR-guided therapy
+
+---
+
+# Sensor System
+
+Patient safety monitoring includes:
+
+Temperature sensors  
+Cavitation detection  
+Vital signs monitoring  
+Blood flow monitoring  
+Oxygenation monitoring
+
+---
+
+# Safety Architecture
+
+Three independent safety layers:
+
+AI predictive safety  
+sensor monitoring  
+hardware shutdown
+
+---
+
+# Intended Applications
+
+Potential applications include:
+
+oncology  
+tumor ablation  
+neurological therapy  
+precision medicine
+
+---
+
+# Prior Art Declaration
+
+This publication establishes prior art for the disclosed RGMMTS architecture.
+
+---
+
+# License
+
+Creative Commons Attribution 4.0 (CC BY 4.0)
